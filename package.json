@@ -1,0 +1,25 @@
+{
+  "name": "moleculer-slack-events-api",
+  "version": "0.0.1",
+  "description": "A Moleculer service to work with the Slack Events API",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": "https://github.com/TheAppleFreak/moleculer-slack-events-api.git",
+  "author": "TheAppleFreak <theapplefreak@pcmasterrace.org>",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "dependencies": {
+    "moleculer-web": "^0.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.3",
+    "tslib": "^1.9.3",
+    "typescript": "^2.9.2"
+  },
+  "peerDependencies": {
+    "moleculer": "^0.13.1"
+  }
+}
