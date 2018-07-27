@@ -1,6 +1,6 @@
 {
   "name": "moleculer-slack-events-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Moleculer service to work with the Slack Events API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
