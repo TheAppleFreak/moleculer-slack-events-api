@@ -1,5 +1,7 @@
 # moleculer-slack-events-api
 
+# NOTE: This package is no longer maintained and may break as Slack updates their platform.
+
 This is a very simple Moleculer service to work with the Slack events API. It implements the bare minimum of functionality present within the [Node Slack Events API package](https://github.com/slackapi/node-slack-events-api/), except instead of using its own server and event emitter it uses the [Moleculer API gateway](https://github.com/moleculer/moleculer-web). 
 
 ## How to use
